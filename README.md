@@ -17,8 +17,8 @@
 
 | 날짜       | 논문 제목 | 주제 | PDF |
 |------------|-----------|------|-----|
-| 2025-06-10 | Neural Collaborative Filtering | 📊 추천 시스템 | [PDF 보기](papers/2025-06-10_NCF.pdf) |
-| 2025-07-01 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 🧠 컴퓨터 비전 | [PDF 보기](papers/2025-07-01_ViT.pdf) |
+| 2025-06-10 | Neural Collaborative Filtering | 📊 추천 시스템 | [PDF 보기](papers/Neural Collaborative Filtering) |
+| 2025-07-01 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 🧠 컴퓨터 비전 | [PDF 보기](papers/An Image is Worth 16x16 Words.pdf) |
 
 
 
