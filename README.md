@@ -8,7 +8,7 @@
 - 개인적인 학습 및 참고용으로 작성되었습니다.
 
 ## 🧾 리뷰 주제
-
+- ✏️ AI 기초
 - 🧠 컴퓨터 비전    
 - 📊 추천시스템   
 - 🔬 기타 최신 연구  
@@ -21,6 +21,7 @@
 | 2025-07-01 | An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | 🧠 컴퓨터 비전 | [PDF 보기](paper/An%20Image%20is%20Worth%2016x16%20Words.pdf) |
 | 2025-07-13 | Neural Graph Collaborative Filtering | 📊 추천 시스템 | [PDF 보기](paper/Neural%20Graph%20Collaborative%20Filtering.pdf) |
 | 2025-07-25 |LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation | 📊 추천 시스템 | [PDF 보기](paper/LightGCN.pdf) |
+| 2025-07-31 |Attention Is All You Need| ✏️ AI 기초 | [PDF 보기](paper/Attention%20is%20All%20you%20need.pdf) |
 
 
 
