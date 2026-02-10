@@ -22,6 +22,7 @@
 | 2025-07-13 | Neural Graph Collaborative Filtering | 📊 추천 시스템 | [PDF 보기](paper/Neural%20Graph%20Collaborative%20Filtering.pdf) |
 | 2025-07-25 |LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation | 📊 추천 시스템 | [PDF 보기](paper/LightGCN.pdf) |
 | 2025-07-31 |Attention Is All You Need| ✏️ AI 기초 | [PDF 보기](paper/Attention%20is%20All%20you%20need.pdf) |
+| 2026-02-10 |Attention Is All You Need| 📊 추천 시스템 | [PDF 보기](paper/Toward%20the%20Next%20Generation%20of%20Recommender%20Systems.pdf) |
 
 
 
